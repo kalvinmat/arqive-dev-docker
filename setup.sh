@@ -21,11 +21,11 @@ be edited to reflect the location of the repos and the branches you are working 
 ## that you want to use
 ## WARNING: Depending on your fork of the project, you may need to configure the Dockerfile and 
 ## docker-compose.yml in each directory to work correctly with configuration each repo is using.
-backend_repo="https://github.com/kennardlim1220/thearqive-backend"
-backend_branch=updated_stack
+backend_repo="https://github.com/kennardlim1220/thearqive-backend.git"
+backend_branch=master
 
-frontend_repo="https://github.com/kennardlim1220/arQive-frontend"
-frontend_branch=updated_stack
+frontend_repo="https://github.com/kalvinmat/arQive-frontend.git"
+frontend_branch=updateNode
 
 
 printf "
